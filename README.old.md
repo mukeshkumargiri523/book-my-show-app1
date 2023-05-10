@@ -19,4 +19,4 @@ Componenets
   >PaymentModal  PaymentModalComponent.jsx 
   >PlayFilters   Fliters.Component.jsx
   >Poster        Poster.Component.jsx
-  >PosterSlider  PosterSliderComponent.jsx~
+  >PosterSlider  PosterSliderComponent.jsx
